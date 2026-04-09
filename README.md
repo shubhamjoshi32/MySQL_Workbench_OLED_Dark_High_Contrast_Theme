@@ -12,7 +12,7 @@ A **True Black (#000000)** theme for MySQL Workbench. This theme is specifically
 ---
 
 ## 📸 Preview
-![Theme Preview](screenshot\Black_Oled_High_Contrast.png)
+![Theme Preview](screenshot/Black_Oled_High_Contrast.png)
 
 ---
 
